@@ -1,2 +1,1 @@
-# PromtGPT
-DLAI - Prompt Engineering for Developers
+#DLAI - Prompt Engineering for Developers
